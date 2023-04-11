@@ -249,7 +249,7 @@ güvenlik önlemleri alması hayati önem taşıyor. Bu tür önlemlerin
 alınmaması, büyük borsaların çökmesi gibi ciddi sorunlara yol
 açabilir.
 
-##**Nedenleri maddeleştirmemiz gerekirse;**
+## **Nedenleri maddeleştirmemiz gerekirse;**
 - **Güncelleme sürecindeki hatalar :** :En büyük sorun, işlemcilerin ve
 NYSE arasındaki iletişimde yaşanan sorunlardı. İşlemciler,
 sistemlerini yükseltilen NYSE sistemleriyle bağlantı kurarken
@@ -318,7 +318,7 @@ iletişim sorunları nedeniyle, tüccarlar alım-satım kararlarını doğru bir
 şekilde alamadılar ve bu da borsacıların finansal kayıplar yaşamasına
 neden oldu.
 
-##**Alınabilicek Önlemler ve İyileştirme Önerileri**
+## **Alınabilicek Önlemler ve İyileştirme Önerileri**
 **Yazılım mühendisleri olarak, NYSE'in yazılım güncelleme krizine ilişkin bazı önerilerimiz şunlardır:**
 - Yazılım mühendisliği süreçlerini doğru bir şekilde uygulamak için kaliteli yazılım mühendisleri işe
 alınabilir.
