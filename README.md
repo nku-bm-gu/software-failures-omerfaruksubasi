@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Mo1xZhA9)
 
 # **NEW YORK BORSA KESİNTİSİ - 2015**
-
+![nyse](https://github.com/nku-bm-gu/software-failures-omerfaruksubasi/blob/06bbb78a418e7e229df57dba8502dae3f5a9b022/image%20(2).png)
 ## **ÖZET**
 New York Borsası, 19 trilyon 351 milyar 417 milyon 200 bin
 dolarlık piyasa değeriyle dünya borsaları arasında birinci sırada
@@ -30,6 +30,8 @@ büyük borsalarının Market capları $13.39 trilyon
 değeri bulan hisseye sahiptir. 2008 yılında ortalama
 $153 milyar günlük işlem hacmine ulaşmaktadır.
 
+![nyse](https://github.com/nku-bm-gu/software-failures-omerfaruksubasi/blob/06bbb78a418e7e229df57dba8502dae3f5a9b022/png.jpeg)
+
 ## **NYSE'deki Teknik Sorunlar Nedeniyle Meydana Gelen Borsa Kesintileri**
 - 1994: NYSE, teknik bir sorun nedeniyle işlemlere
 birkaç saat ara vermek zorunda kaldı. Bu sorun,
@@ -51,6 +53,7 @@ teknik sorunlar yaşadı ve bazı işlemler gecikmeli
 olarak gerçekleştirildi. Ancak, bu kesintiler
 diğerlerine kıyasla daha az etkili oldu.
 
+![nyse](https://github.com/nku-bm-gu/software-failures-omerfaruksubasi/blob/06bbb78a418e7e229df57dba8502dae3f5a9b022/image%20(1).png)
 ## **New York Borsa Kesintisi - 8 Temmuz 2015**
 - New York Menkul Kıymetler Borsası, yeni bir zaman
 damgası düzenleyici gerekliliğine hazırlanmak için Salı
@@ -136,6 +139,8 @@ etkiledi. Ancak, NYSE'deki kesinti ve düşüş, Çin'deki olaylardan
 çok daha kısa sürdü ve daha az etkili oldu.
 - Dow Jones endeksi yaklaşık 260 puan (%1,47), S&P endeksi 35
 puan (%1,67) ve Nasdaq endeksi de 87 puan (%1,75) düştü.
+
+![nyse](https://github.com/nku-bm-gu/software-failures-omerfaruksubasi/blob/06bbb78a418e7e229df57dba8502dae3f5a9b022/image.png)
 
 ## **Borsa Kesitisinin Nedenleri**
 2015 yılında NYSE de gerçekleşen kesintinin nedeni finansal piyasalarda büyük etkiye sebep
