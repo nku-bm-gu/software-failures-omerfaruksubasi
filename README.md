@@ -254,6 +254,8 @@ güvenlik önlemleri alması hayati önem taşıyor. Bu tür önlemlerin
 alınmaması, büyük borsaların çökmesi gibi ciddi sorunlara yol
 açabilir.
 
+![nyse](https://github.com/nku-bm-gu/software-failures-omerfaruksubasi/blob/1b1f99634f82a560d797909b3439ab4266d50329/nyse.jpg)
+
 ## **Nedenleri maddeleştirmemiz gerekirse;**
 - **Güncelleme sürecindeki hatalar :** :En büyük sorun, işlemcilerin ve
 NYSE arasındaki iletişimde yaşanan sorunlardı. İşlemciler,
